@@ -23,9 +23,7 @@ For each application version, Jenkins checks out the code, performs code-quality
 
 ## 3. Architecture and Workflow
 
-The architecture image is stored as `architecture.gif` beside this document.
-
-![Tetris CI/CD architecture](architecture.gif)
+<img width="1613" height="866" alt="image" src="https://github.com/user-attachments/assets/a289b8fc-5191-4e5c-84a0-93a56aaeccf2" />
 
 ### Workflow
 
